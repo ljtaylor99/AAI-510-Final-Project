@@ -1,9 +1,10 @@
 # AAI-510-Final-Project
 
-Final Project by
- Lauren Taylor, Jester Ugalde, Xavier Plasencia
+### Final Project by
+Lauren Taylor, Jester Ugalde, Xavier Plasencia
 
-#Problem Statement
+***
+## Problem Statement
 
 For businesses, online review sites such as Yelp provide valuable input on customer's experiences. Because of this, monitoring those comments are vital for ensuring a business' success.  
 However, this can become more difficult if there is a high volume of reviews being posted. To address this problem we are going to utilize Natural Language Processing (NLP).
